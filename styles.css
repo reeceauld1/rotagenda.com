@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .main-table {
@@ -41,11 +41,11 @@ body {
 
 .content {
     text-align: center;
-    line-height: 1.5;
+    line-height: 1;
 }
 
 .site-title {
-    font-size: 3em;
+    font-size: 2.2em;
     color: red;
 }
 
@@ -59,7 +59,7 @@ body {
 }
 
 .announcement {
-    font-size: 1.6em;
+    font-size: 1.4em;
     font-family: arial black, arial, helvetica, sans-serif;
     font-weight: bold;
 }
@@ -69,7 +69,7 @@ body {
 }
 
 .section-header {
-    font-size: 2em;
+    font-size: 1.8em;
     color: red;
 }
 
